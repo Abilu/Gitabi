@@ -6,7 +6,10 @@ public class Sample {
 	}
 	private void saran() {
 		System.out.println("good boy");
-
+	}
+		private void indu() {
+			System.out.println("good boy");
+			
 	}
 
 }
